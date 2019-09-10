@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <title>Enquiry</title>
+    <style>
+        .form-control{
+            margin-top: 10px;
+        }
+    </style>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-6">
+                <h1 class="text-center">Enquiry Form</h1>
+                <form method="POST">
+
+                    {{ eform  }}
+                    <center>
+                        <input type="submit" value="Submit Query" class="btn btn-success">
+                        <input type="reset" value="Clear" class="btn btn-danger">
+                    </center>
+                </form>
+
+            </div>
+            <div class="col-md-6">
+               <img src="{% static 'images/tree1.gif' %}" height="450px">
+            </div>
+        </div>
+    </div>
+{% endblock %}

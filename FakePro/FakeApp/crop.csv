@@ -1,0 +1,253 @@
+Location,Avg_Soil_Type,Month,Crop_production_1,Crop_production_2,Cost_crop1_2016,Cost_crop1_2017,Cost_crop1_2018,Selling_price_crop1_2016,Selling_price_crop1_2017,Selling_price_crop1_2018,Cost_of_crop2_2016,Cost_of_crop2_2017,Cost_of_crop2_2018,Selling_price_crop2_2016,Selling_price_crop2_2018,Selling_price_crop2_2018
+Banda,Red,Jan,Jau,Tamatar,7,8,9,12,14,16,4,11,9,30,35,40
+Banda,Red,feb,Sarso,wheat,10,12,14,16,18,20,5,15,11,16,18,20
+Banda,Red,March,Tamatar,Rice,15,16,17,30,32,33,7,7,14,22,27,25
+Banda,Red,April,wheat,urad,10,11,12,17,18,20,10,11,8,33,32,35
+Banda,Red,May,Rice,arhar,12,15,17,19,20,21,3,5,12,11,20,21
+Banda,Red,June,urad,bhutta,6,7,8,10,15,18,6,6,10,22,14,15
+Banda,Red,July,arhar,bazra,10,11,11,22,24,26,8,8,16,19,20,21
+Banda,Red,August,bhutta,chana,4,5,6,30,35,40,12,11,18,22,24,27
+Banda,Red,September,bazra,matar,5,6,7,16,18,20,5,7,15,22,30,32
+Banda,Red,Octber,chana,aloo,7,8,9,22,27,25,10,8,15,12,13,14
+Banda,Red,November,matar,Jau,10,11,12,33,32,35,8,10,17,14,15,16
+Banda,Red,December,aloo,Sarso,3,7,8,11,20,21,12,13,17,10,24,40
+Lucknow,Brown,Jan,Jau,bazra,6,8,9,22,14,15,15,7,12,22,35,20
+Lucknow,Brown,feb,Sarso,chana,8,10,11,19,20,21,17,11,17,30,18,25
+Lucknow,Brown,March,Tamatar,matar,12,13,14,22,24,27,12,9,8,16,27,35
+Lucknow,Brown,April,wheat,aloo,5,7,8,22,30,32,15,14,11,22,32,21
+Lucknow,Brown,May,Rice,Jau,10,11,12,12,13,14,15,17,6,33,20,15
+Lucknow,Brown,June,urad,Sarso,8,9,10,14,15,16,10,16,7,11,14,21
+Lucknow,Brown,July,arhar,Tamatar,12,14,16,10,24,40,12,13,9,22,20,27
+Lucknow,Brown,August,bhutta,wheat,15,17,18,22,35,20,6,6,12,20,27,32
+Lucknow,Brown,September,bazra,Rice,17,16,15,30,18,25,10,8,8,15,32,14
+Lucknow,Brown,Octber,chana,urad,12,13,15,16,27,35,4,12,9,24,20,20
+Lucknow,Brown,November,matar,arhar,15,6,17,22,32,21,5,5,11,35,14,33
+Lucknow,Brown,December,aloo,bhutta,15,8,17,33,20,15,7,10,14,18,20,20
+Siddharth Nagar,Alluvial ,Jan,Sarso,bazra,10,12,12,11,14,21,10,8,11,27,24,21
+Siddharth Nagar,Alluvial ,feb,Tamatar,Rice,12,5,17,22,20,27,3,12,14,32,30,18
+Siddharth Nagar,Alluvial ,March,wheat,urad,6,10,8,20,27,32,6,15,8,22,13,26
+Siddharth Nagar,Alluvial ,April,Rice,arhar,10,8,11,15,32,14,8,17,12,19,15,40
+Siddharth Nagar,Alluvial ,May,urad,bhutta,4,12,6,24,20,20,12,12,10,22,24,20
+Siddharth Nagar,Alluvial ,June,arhar,bazra,5,15,7,35,14,33,5,15,16,22,35,33
+Siddharth Nagar,Alluvial ,July,bhutta,chana,7,17,9,18,20,20,10,15,15,12,18,20
+Siddharth Nagar,Alluvial ,August,bazra,matar,10,12,12,27,24,21,8,10,15,14,27,21
+Siddharth Nagar,Alluvial ,September,Rice,aloo,3,15,8,32,30,18,12,12,17,10,18,18
+Siddharth Nagar,Alluvial ,Octber,urad,Jau,6,15,9,22,13,26,5,6,17,22,32,26
+Siddharth Nagar,Alluvial ,November,arhar,Sarso,8,10,11,19,15,40,4,10,12,30,18,40
+Siddharth Nagar,Alluvial ,December,bhutta,Tamatar,12,12,14,22,24,20,5,4,17,16,20,20
+Prayagraj,Alluvial ,Jan,bazra,wheat,5,6,11,22,35,33,7,5,8,22,15,25
+Prayagraj,Alluvial ,feb,chana,urad,10,10,14,12,18,20,10,7,11,33,24,35
+Prayagraj,Alluvial ,March,matar,arhar,8,4,8,14,27,21,3,10,6,11,35,21
+Prayagraj,Alluvial ,April,aloo,bhutta,12,5,12,10,18,18,6,3,9,22,18,15
+Prayagraj,Alluvial ,May,Jau,bazra,5,7,10,22,32,26,8,6,14,20,27,21
+Prayagraj,Alluvial ,June,Sarso,chana,10,10,16,30,18,40,12,8,17,15,32,27
+Prayagraj,Alluvial ,July,Tamatar,matar,8,3,15,16,20,20,5,12,12,24,20,32
+Prayagraj,Alluvial ,August,wheat,aloo,12,6,15,22,15,25,10,11,17,35,14,14
+Prayagraj,Alluvial ,September,urad,Jau,15,8,17,33,24,35,8,5,8,12,20,33
+Prayagraj,Alluvial ,Octber,matar,Sarso,17,12,17,11,35,21,12,7,11,14,24,20
+Prayagraj,Alluvial ,November,aloo,bazra,12,11,12,22,18,15,15,10,6,10,30,21
+Prayagraj,Alluvial ,December,Jau,chana,15,5,17,20,27,21,17,3,7,22,13,18
+Chitrakoot,Rock,Jan,Sarso,matar,15,7,8,15,32,27,12,6,9,30,15,26
+Chitrakoot,Rock,feb,Tamatar,aloo,10,10,11,24,20,32,15,8,12,16,24,40
+Chitrakoot,Rock,March,wheat,Jau,12,3,6,35,14,14,15,12,8,22,35,20
+Chitrakoot,Rock,April,Rice,Sarso,6,6,7,12,20,33,10,11,9,33,18,25
+Chitrakoot,Rock,May,urad,Tamatar,5,8,9,14,24,20,12,9,11,11,27,35
+Chitrakoot,Rock,June,arhar,wheat,6,12,12,10,30,21,6,14,14,22,32,21
+Chitrakoot,Rock,July,bhutta,Rice,8,11,8,22,13,18,10,17,8,20,20,15
+Chitrakoot,Rock,August,bazra,matar,11,9,8,30,15,26,4,16,12,15,14,21
+Chitrakoot,Rock,September,chana,bazra,7,14,11,16,24,40,5,13,10,24,24,27
+Chitrakoot,Rock,Octber,matar,chana,8,17,6,22,35,20,7,16,16,35,35,32
+Chitrakoot,Rock,November,aloo,matar,10,16,7,33,18,25,10,8,18,12,18,14
+Chitrakoot,Rock,December,Barley,aloo,13,13,9,11,27,35,3,3,15,16,27,16
+Jhansi,Red,Jan,Mustard,Jau,7,16,12,22,32,21,6,6,15,30,32,40
+Jhansi,Red,feb,Onion,Sarso,11,8,8,20,20,15,8,8,17,17,20,20
+Jhansi,Red,March,Ladyfinger,Tamatar,9,3,9,15,14,21,12,12,17,19,14,25
+Jhansi,Red,April,Maize,wheat,14,6,11,24,24,27,5,5,12,10,20,35
+Jhansi,Red,May,jwar,Rice,17,8,14,35,35,32,10,10,17,22,24,21
+Jhansi,Red,June,bazra,urad,16,12,8,12,18,14,8,8,8,30,30,15
+Jhansi,Red,July,urad,arhar,13,5,12,16,27,16,12,12,11,16,13,21
+Jhansi,Red,August,soyabean,bhutta,16,10,10,30,32,40,5,15,6,22,15,27
+Jhansi,Red,September,Paddy,bazra,8,8,16,17,20,20,10,17,7,12,35,32
+Jhansi,Red,Octber,Gram,chana,11,12,18,19,14,25,8,12,9,14,18,14
+Jhansi,Red,November,Toria,matar,7,15,15,10,20,35,12,15,12,10,27,16
+Jhansi,Red,December,Linseed,aloo,8,17,15,22,24,21,15,15,8,22,18,40
+Bulandshahar,Laterite,Jan,Lentil,Sarso,10,12,17,30,30,15,17,10,9,30,32,20
+Bulandshahar,Laterite,feb,urad,arhar,13,15,17,16,13,21,8,12,11,16,18,25
+Bulandshahar,Laterite,March,matar,bhutta,7,15,15,22,15,27,10,6,14,22,20,35
+Bulandshahar,Laterite,April,aloo,bazra,11,10,17,33,20,32,13,10,11,33,15,21
+Bulandshahar,Laterite,May,Jau,chana,9,12,17,11,24,14,7,4,14,11,24,15
+Bulandshahar,Laterite,June,Sarso,matar,14,6,12,22,30,20,11,5,8,22,35,21
+Bulandshahar,Laterite,July,Tamatar,aloo,11,10,17,19,13,33,9,7,12,20,18,27
+Bulandshahar,Laterite,August,wheat,Barley,15,4,8,22,15,20,14,10,10,15,27,32
+Bulandshahar,Laterite,September,Rice,Mustard,7,5,11,22,24,27,11,3,16,24,32,14
+Bulandshahar,Laterite,Octber,urad,Onion,10,7,6,12,35,32,10,6,15,35,20,20
+Bulandshahar,Laterite,November,arhar,Ladyfinger,4,10,7,14,18,14,4,8,15,18,14,33
+Bulandshahar,Laterite,December,bhutta,Maize,5,3,9,10,27,16,5,12,17,27,20,20
+Kanpur,Black,Jan,bazra,jwar,7,6,12,22,18,40,7,5,17,32,24,21
+Kanpur,Black,feb,chana,bazra,10,8,8,30,32,20,10,10,12,22,30,18
+Kanpur,Black,March,matar,urd,3,12,8,16,18,25,3,8,17,19,13,26
+Kanpur,Black,April,aloo,soyabean,6,5,11,22,20,35,6,12,8,22,15,40
+Kanpur,Black,May,Barley,Paddy,8,10,6,33,15,21,8,5,11,22,24,20
+Kanpur,Black,June,Mustard,Gram,12,8,7,11,24,15,12,10,6,12,35,33
+Kanpur,Black,July,Onion,Toria,5,12,8,22,35,21,5,4,7,14,18,20
+Kanpur,Black,August,Ladyfinger,Linseed,10,5,9,20,18,27,10,5,9,10,27,21
+Kanpur,Black,September,Maize,Lentil,8,10,11,15,27,32,8,7,12,22,32,18
+Kanpur,Black,Octber,jwar,urad,12,4,14,24,32,14,12,10,8,30,20,26
+Kanpur,Black,November,aloo,matar,15,5,8,35,20,20,5,3,8,16,14,40
+Kanpur,Black,December,Jau,aloo,17,7,12,18,14,33,4,6,11,22,24,20
+Meerut,Red,Jan,Sarso,Jau,12,10,10,27,20,20,5,8,6,30,30,15
+Meerut,Red,feb,Tamatar,wheat,15,3,16,32,24,21,7,12,7,16,13,21
+Meerut,Red,March,wheat,Rice,15,6,18,22,30,18,10,5,9,22,15,27
+Meerut,Red,April,Rice,urad,10,8,15,19,13,26,3,10,12,33,20,32
+Meerut,Red,May,urad,arhar,12,12,15,22,15,40,6,8,8,11,24,14
+Meerut,Red,June,arhar,bhutta,6,5,17,22,24,20,8,12,9,22,30,20
+Meerut,Red,July,bhutta,bazra,10,10,17,12,35,33,12,15,11,19,13,33
+Meerut,Red,August,bazra,chana,4,8,12,14,18,20,5,5,14,22,15,20
+Meerut,Red,September,chana,matar,5,12,17,10,27,21,10,6,8,22,24,27
+Meerut,Red,Octber,matar,aloo,7,15,8,22,32,18,8,8,12,12,35,32
+Meerut,Red,November,aloo,Barley,10,17,11,30,20,26,12,11,10,14,18,14
+Meerut,Red,December,aloo,Mustard,3,12,14,16,14,40,15,7,16,10,27,16
+Agra,Alluvial ,Jan,Jau,Onion,6,15,11,22,24,20,17,8,7,22,18,40
+Agra,Alluvial ,feb,Sarso,Ladyfinger,8,15,14,33,35,25,12,10,9,30,32,20
+Agra,Alluvial ,March,Tamatar,Maize,12,10,8,11,18,35,15,13,12,16,18,25
+Agra,Alluvial ,April,wheat,jwar,5,12,12,22,27,21,15,7,8,22,20,35
+Agra,Alluvial ,May,Rice,aloo,10,6,10,20,32,15,10,11,9,33,15,21
+Agra,Alluvial ,June,urad,Jau,8,10,16,15,20,21,12,9,11,11,24,15
+Agra,Alluvial ,July,arhar,Sarso,12,4,15,24,14,27,6,14,14,22,35,21
+Agra,Alluvial ,August,bhutta,Tamatar,5,5,15,35,20,32,10,17,8,20,18,27
+Agra,Alluvial ,September,bazra,wheat,10,7,17,12,24,14,4,16,12,15,27,32
+Agra,Alluvial ,Octber,chana,Rice,8,10,17,14,30,33,5,13,10,24,32,14
+Agra,Alluvial ,November,matar,urad,12,3,12,10,13,26,7,6,16,35,20,20
+Agra,Alluvial ,December,aloo,arhar,15,6,17,22,15,40,10,8,18,18,14,33
+Gorakhpur,Black,Jan,matar,bhutta,17,12,8,30,20,20,3,12,15,27,20,20
+Gorakhpur,Black,feb,aloo,bazra,8,15,11,16,24,25,6,5,15,32,24,21
+Gorakhpur,Black,March,Jau,matar,10,15,6,22,30,35,8,10,17,22,30,18
+Gorakhpur,Black,April,Sarso,bazra,13,10,7,33,13,21,12,6,17,19,13,26
+Gorakhpur,Black,May,Tamatar,chana,7,12,9,11,15,15,5,8,15,20,18,40
+Gorakhpur,Black,June,wheat,matar,11,6,12,22,24,21,10,12,17,15,20,20
+Gorakhpur,Black,July,Rice,aloo,9,10,8,20,35,27,8,11,17,24,15,25
+Gorakhpur,Black,August,urad,Jau,14,4,8,19,18,32,15,9,12,35,24,35
+Gorakhpur,Black,September,arhar,Sarso,11,5,11,10,27,14,17,14,17,12,35,21
+Gorakhpur,Black,Octber,bhutta,Tamatar,15,7,6,22,18,16,8,17,8,14,18,15
+Gorakhpur,Black,November,bazra,wheat,7,10,7,30,32,40,10,16,11,10,27,21
+Gorakhpur,Black,December,chana,Rice,10,3,9,16,18,20,13,13,6,22,32,27
+Maharajganj,Black,Jan,matar,urad,4,6,12,22,20,25,7,16,7,30,20,32
+Maharajganj,Black,feb,aloo,arhar,5,8,8,33,15,35,11,8,9,16,14,14
+Maharajganj,Black,March,Sarso,bhutta,7,12,9,11,24,21,9,3,12,22,20,33
+Maharajganj,Black,April,Tamatar,bazra,10,5,11,22,27,15,14,6,8,33,24,26
+Maharajganj,Black,May,wheat,chana,3,10,14,19,32,21,11,8,8,11,30,18
+Maharajganj,Black,June,Rice,matar,6,8,8,22,20,27,15,12,11,22,13,26
+Maharajganj,Black,July,matar,aloo,8,12,12,22,14,32,7,5,6,20,15,40
+Maharajganj,Black,August,aloo,Sarso,12,5,10,12,20,14,10,10,7,15,24,20
+Maharajganj,Black,September,Jau,arhar,5,10,16,14,24,20,4,8,8,24,35,33
+Maharajganj,Black,Octber,Sarso,bhutta,10,8,18,10,30,33,5,12,9,35,18,20
+Maharajganj,Black,November,Tamatar,bazra,8,12,15,22,13,20,7,15,11,12,18,21
+Maharajganj,Black,December,wheat,matar,12,15,16,30,15,27,10,17,14,16,32,18
+Santkabir Nagar,Alluvial ,Jan,Rice,aloo,15,17,18,16,24,32,3,12,8,30,18,26
+Santkabir Nagar,Alluvial ,feb,urad,Barley,17,12,15,22,35,14,6,15,12,17,20,40
+Santkabir Nagar,Alluvial ,March,arhar,Mustard,12,15,15,33,18,16,8,6,10,19,15,20
+Santkabir Nagar,Alluvial ,April,bhutta,Onion,15,15,17,11,27,40,12,8,16,10,24,25
+Santkabir Nagar,Alluvial ,May,bazra,Ladyfinger,15,10,17,22,32,20,5,12,18,22,35,35
+Santkabir Nagar,Alluvial ,June,chana,Maize,10,12,12,20,20,25,10,5,15,30,18,21
+Santkabir Nagar,Alluvial ,July,matar,jwar,12,6,17,15,14,35,8,10,15,16,27,15
+Santkabir Nagar,Alluvial ,August,aloo,bazra,6,5,8,24,24,21,12,8,17,22,32,21
+Santkabir Nagar,Alluvial ,September,Sarso,urd,10,6,11,35,35,15,15,12,17,33,20,27
+Santkabir Nagar,Alluvial ,Octber,Tamatar,soyabean,4,8,6,18,18,21,17,5,15,11,14,32
+Santkabir Nagar,Alluvial ,November,wheat,Paddy,5,11,7,27,27,27,12,10,17,22,20,14
+Santkabir Nagar,Alluvial ,December,Rice,Gram,7,17,9,32,32,32,15,8,17,19,24,33
+Saharanpur,Black,Jan,urad,Toria,7,12,12,22,20,14,15,12,12,22,30,26
+Saharanpur,Black,feb,arhar,Linseed,10,15,8,19,14,20,10,15,17,22,13,40
+Saharanpur,Black,March,bhutta,Lentil,3,15,9,22,20,33,12,17,8,12,15,20
+Saharanpur,Black,April,bazra,urad,6,11,11,22,20,20,6,12,11,14,24,25
+Saharanpur,Black,May,Rice,matar,8,10,14,12,24,21,10,15,6,10,35,35
+Saharanpur,Black,June,urad,aloo,12,3,11,14,30,18,4,15,7,22,18,21
+Saharanpur,Black,July,arhar,Jau,5,6,14,10,13,26,5,10,9,30,27,15
+Saharanpur,Black,August,bhutta,Sarso,10,8,8,22,15,40,7,12,12,16,32,21
+Saharanpur,Black,September,bazra,Tamatar,8,12,8,30,24,20,7,6,8,22,20,27
+Saharanpur,Black,Octber,chana,wheat,12,5,8,16,35,33,10,5,9,33,14,32
+Saharanpur,Black,November,matar,Rice,15,10,11,22,18,20,3,6,11,11,24,14
+Saharanpur,Black,December,aloo,urad,17,8,6,33,27,21,6,8,14,22,35,16
+Balrampur,sandy,Jan,Jau,arhar,12,12,7,11,18,18,8,11,11,20,18,40
+Balrampur,sandy,feb,Sarso,bhutta,15,5,9,22,32,26,12,17,14,15,27,20
+Balrampur,sandy,March,Tamatar,bazra,15,10,12,20,18,40,5,12,8,24,32,25
+Balrampur,sandy,April,wheat,chana,10,4,8,15,20,20,10,15,12,35,20,35
+Balrampur,sandy,May,urad,matar,12,5,9,24,15,25,8,15,10,18,14,20
+Balrampur,sandy,June,matar,aloo,6,7,11,35,24,35,12,11,16,27,20,21
+Balrampur,sandy,July,aloo,Barley,10,10,14,12,35,21,15,10,15,32,24,18
+Balrampur,sandy,August,Jau,Mustard,4,3,8,14,18,15,17,3,15,22,30,26
+Balrampur,sandy,September,Sarso,Onion,5,6,12,10,27,21,12,6,17,19,13,40
+Balrampur,sandy,Octber,Tamatar,Ladyfinger,7,8,10,22,32,27,15,8,17,22,15,20
+Balrampur,sandy,November,wheat,Mustard,10,12,16,30,20,32,15,12,12,22,20,25
+Balrampur,sandy,December,Rice,Onion,3,5,18,16,14,14,10,5,17,12,24,35
+Gonda,Black,Jan,urad,Ladyfinger,6,10,15,22,20,33,12,10,8,14,30,21
+Gonda,Black,feb,arhar,Maize,8,8,16,33,24,26,6,8,11,10,13,15
+Gonda,Black,March,bhutta,jwar,12,12,18,11,30,18,10,12,6,22,15,21
+Gonda,Black,April,bazra,bazra,5,15,15,22,13,26,4,5,7,30,24,27
+Gonda,Black,May,chana,urd,10,17,15,20,15,40,5,10,9,16,35,32
+Gonda,Black,June,matar,soyabean,8,12,17,15,24,20,7,4,12,11,18,14
+Gonda,Black,July,aloo,Paddy,12,11,17,24,35,33,10,5,8,22,27,33
+Gonda,Black,August,Barley,Gram,5,9,12,35,18,20,3,7,8,20,18,26
+Gonda,Black,September,Mustard,Toria,10,14,17,12,18,21,6,10,11,15,32,18
+Gonda,Black,Octber,Onion,Linseed,8,17,8,16,32,18,8,3,6,24,18,26
+Gonda,Black,November,Ladyfinger,Lentil,12,16,11,30,18,26,12,6,7,35,20,40
+Gonda,Black,December,Maize,Jau,13,13,6,17,20,40,15,8,9,12,15,20
+Basti,Black,Jan,jwar,Sarso,11,16,7,19,15,20,17,12,12,14,24,33
+Basti,Black,feb,bazra,Tamatar,5,8,9,10,24,25,12,5,8,10,27,20
+Basti,Black,March,urd,wheat,12,11,12,22,35,35,15,10,9,22,32,21
+Basti,Black,April,soyabean,Rice,5,7,8,30,18,21,15,8,11,30,20,18
+Basti,Black,May,Paddy,urad,10,8,9,16,27,15,10,12,14,16,14,26
+Basti,Black,June,Gram,arhar,8,10,11,22,32,21,12,15,8,22,14,40
+Basti,Black,July,Toria,bhutta,12,13,14,33,20,27,6,17,12,33,20,20
+Basti,Black,August,Linseed,bazra,15,7,8,11,14,32,10,12,10,11,24,25
+Basti,Black,September,Lentil,chana,17,11,12,22,20,14,4,11,16,22,30,35
+Basti,Black,Octber,Jau,matar,12,9,10,19,24,33,5,9,18,20,13,21
+Basti,Black,November,Sarso,aloo,11,14,16,22,30,26,7,14,15,19,15,15
+Basti,Black,December,Tamatar,Barley,15,11,18,22,13,40,10,17,15,10,20,21
+Baliya,Alluvial ,Jan,wheat,Paddy,7,15,15,12,15,20,3,16,17,22,24,27
+Baliya,Alluvial ,feb,Rice,Gram,10,7,15,14,24,25,6,13,17,30,34,32
+Baliya,Alluvial ,March,urad,Toria,4,10,12,10,35,35,8,16,15,22,18,40
+Baliya,Alluvial ,April,arhar,Linseed,5,4,14,22,18,21,12,8,17,30,32,20
+Baliya,Alluvial ,May,bhutta,Lentil,7,5,11,30,27,15,5,11,17,16,18,25
+Baliya,Alluvial ,June,bazra,Jau,10,7,14,16,32,21,10,7,12,22,20,35
+Baliya,Alluvial ,July,chana,Sarso,3,8,8,22,20,27,8,8,17,33,15,21
+Baliya,Alluvial ,August,matar,Tamatar,6,12,8,33,14,32,12,10,8,11,24,15
+Baliya,Alluvial ,September,aloo,wheat,8,15,8,11,24,14,5,13,11,22,35,21
+Baliya,Alluvial ,Octber,Barley,Rice,12,17,11,22,35,16,10,7,6,20,18,27
+Baliya,Alluvial ,November,Mustard,urad,5,12,6,20,18,40,8,11,7,15,27,32
+Baliya,Alluvial ,December,Onion,arhar,10,15,7,15,27,20,12,9,9,24,32,14
+Banaras,Alluvial ,Jan,Ladyfinger,bhutta,5,15,9,24,32,25,15,14,12,35,20,20
+Banaras,Alluvial ,feb,Maize,bazra,7,10,12,35,20,35,17,11,8,18,14,33
+Banaras,Alluvial ,March,jwar,chana,10,12,8,18,14,20,8,15,8,27,20,20
+Banaras,Alluvial ,April,bazra,matar,3,6,9,27,20,21,10,7,11,32,24,21
+Banaras,Alluvial ,May,urd,aloo,6,5,11,32,24,18,13,10,6,22,30,18
+Banaras,Alluvial ,June,soyabean,Barley,8,6,14,22,30,26,7,4,7,19,13,26
+Banaras,Alluvial ,July,Paddy,Mustard,12,8,8,19,13,40,11,5,8,22,15,40
+Banaras,Alluvial ,August,Gram,Onion,5,11,12,22,15,20,9,7,9,22,24,20
+Banaras,Alluvial ,September,Toria,Ladyfinger,10,7,10,22,20,25,14,8,11,12,35,33
+Banaras,Alluvial ,Octber,Linseed,Maize,11,8,16,12,24,35,11,12,14,14,18,20
+Banaras,Alluvial ,November,Lentil,jwar,15,10,18,14,30,21,10,15,8,10,27,21
+Banaras,Alluvial ,December,soyabean,bazra,7,13,15,10,13,15,4,17,12,22,32,18
+Jaunpur,Black,Jan,Paddy,urd,10,7,8,22,15,21,5,12,10,30,20,26
+Jaunpur,Black,feb,Gram,soyabean,4,11,9,30,24,27,7,10,16,16,14,40
+Jaunpur,Black,March,Toria,Paddy,5,9,11,16,35,32,10,3,18,22,24,20
+Jaunpur,Black,April,Linseed,Gram,7,14,14,11,18,14,3,6,15,30,30,15
+Jaunpur,Black,May,Lentil,Toria,11,17,8,22,27,33,6,8,15,16,13,21
+Jaunpur,Black,June,bhutta,Linseed,15,16,12,20,18,26,8,12,17,22,15,27
+Jaunpur,Black,July,bazra,Lentil,7,13,10,15,32,18,12,5,17,33,20,32
+Jaunpur,Black,August,Rice,soyabean,10,16,16,24,18,26,5,10,12,11,24,14
+Jaunpur,Black,September,urad,Rice,4,8,18,35,20,40,10,8,17,22,30,20
+Jaunpur,Black,Octber,arhar,urad,5,11,15,12,15,20,8,12,8,19,13,33
+Jaunpur,Black,November,bhutta,arhar,7,7,15,14,24,33,12,15,11,22,15,20
+Jaunpur,Black,December,bazra,bhutta,10,8,17,10,27,20,5,5,14,22,24,27
+Sobhadra,Laterite,Jan,chana,bazra,3,10,17,22,32,21,4,6,11,12,35,32
+Sobhadra,Laterite,feb,matar,chana,6,13,15,30,20,18,5,8,14,14,18,14
+Sobhadra,Laterite,March,aloo,matar,8,7,17,16,14,26,7,11,8,10,27,16
+Sobhadra,Laterite,April,Jau,aloo,12,11,17,22,14,40,10,7,12,22,18,40
+Sobhadra,Laterite,May,Sarso,Jau,5,9,12,33,20,20,3,8,10,30,32,20
+Sobhadra,Laterite,June,Tamatar,Sarso,10,7,17,11,24,25,6,10,16,16,18,25
+Sobhadra,Laterite,July,wheat,Tamatar,5,10,8,22,30,35,8,13,15,22,20,35
+Sobhadra,Laterite,August,urad,wheat,7,4,11,20,13,21,12,7,15,33,15,21
+Sobhadra,Laterite,September,matar,urad,10,5,6,19,15,15,5,11,17,11,24,15
+Sobhadra,Laterite,Octber,aloo,matar,3,7,7,10,20,21,10,9,17,22,35,21
+Sobhadra,Laterite,November,Jau,aloo,6,10,9,22,24,27,8,14,12,20,18,27
+Sobhadra,Laterite,December,Sarso,Jau,8,3,12,30,34,32,12,17,17,15,27,32

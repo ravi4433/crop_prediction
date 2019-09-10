@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+    <title>Crop Prediction</title>
+    <br>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-4">
+                <form method="POST">
+
+
+                    {{ cform }}<br>
+                    <center><input type="submit" value="Predict" class="btn btn-success"></center>
+                </form>
+            </div>
+            <div class="col-md-8">
+                <img src="{% static 'images/tree1.gif' %}" height="450px">
+            </div>
+        </div>
+    </div>
+    <h2 style="background-color: #33cc33">{{ crop1 }}</h2><br>
+    <h2 style="background-color: #33cc33">{{ crop2 }}</h2>
+
+{% endblock %}
